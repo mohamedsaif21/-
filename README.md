@@ -207,12 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. **End-to-End Platform**: Complete career journey from application to advancement
 5. **Real-time AI Feedback**: Instant improvements and suggestions
 
-## 📞 Support & Contact
 
-- **Documentation**: [docs.resucraft.ai](https://docs.resucraft.ai)
-- **Support**: support@resucraft.ai
-- **Community**: [Discord](https://discord.gg/resucraft)
-- **Updates**: [@ResucraftAI](https://twitter.com/ResucraftAI)
 
 ## 🎯 Target Audience
 
@@ -229,6 +224,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by the ResuCraft AI Team**
+
 
 *Transforming careers through intelligent AI assistance*
