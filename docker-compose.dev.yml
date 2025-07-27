@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "3000:80"  # Map local port 3000 to container port 80
+    environment:
+      - NODE_ENV=development
+    restart: unless-stopped
+    volumes:
+      - .:/app  # Mount source code for development
+      - /app/node_modules  # Prevent overwriting node_modules
+
+volumes:
+  node_modules:
