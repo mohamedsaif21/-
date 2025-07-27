@@ -9,5 +9,4 @@ services:
       - NODE_ENV=production
     restart: unless-stopped
 
-volumes:
-  # Remove unused volumes since we only have frontend now
+# Removed unused volumes since we only have frontend now
